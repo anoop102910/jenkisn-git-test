@@ -1,1 +1,1 @@
-print4)
+print(4)
